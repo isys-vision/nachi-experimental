@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!--Generates a urdf from the macro in nachi_mz07_macro.xacro -->
+<robot name="nachi_mz07l_001" xmlns:xacro="http://wiki.ros.org/xacro">
+  <xacro:include filename="$(find nachi_mz07_support)/urdf/mz07l_001.xacro" />
+  <xacro:nachi_mz07l_001 prefix=""/>
+</robot>
