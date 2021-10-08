@@ -29,7 +29,7 @@
   </description>
   <author>Simon Schmeisser (Optonic)</author>
   <author>Timo Birnkraut (Optonic)</author>
-  <maintainer email="g.a.vanderhoorn@tudelft.nl">G.A. vd. Hoorn (TU Delft Robotics Institute)</maintainer>
+  <maintainer email="timo.birnkraut@optonic.com">Timo Birnkraut (Optonic)</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>catkin</buildtool_depend>
